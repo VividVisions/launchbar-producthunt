@@ -14,9 +14,15 @@ Clone or download `Product Hunt.lbaction`. Double-click on it. LaunchBar should 
 
 Activate LaunchBar. Start typing "product hunt", you should see the action very soon (you can train LaunchBar to use any shortcut you like). Select the "Product Hunt" action and press enter.
 
-If you do this for the first time, you'll be asked to create and copy a Product Hunt developer token for API access. You'll need access to the beta API.
+If you do this for the first time, you'll be asked to create and copy a Product Hunt developer token for API access. You'll need access to the beta API. After copying the token, click "Ok".
 
-After copying the token, click "Ok". You should now see the posts of this day and the day begore. Select a post and press the right arrow key. You'll now see the details.
+You should now see the posts of this day and the day begore.
+
+![Screenshot](https://github.com/VividVisions/launchbar-producthunt/raw/master/screenshot1.png "Screenshot of the posts")
+
+Select a post and press the right arrow key. You'll now see the details.
+
+![Screenshot](https://github.com/VividVisions/launchbar-producthunt/raw/master/screenshot2.png "Screenshot of the details")
 
 In the detail view, you can trigger the following actions:
 
