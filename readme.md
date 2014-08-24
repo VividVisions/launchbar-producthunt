@@ -4,11 +4,14 @@ This LaunchBar action shows an overview of posts submitted to producthunt.com on
 
 ## Requirements
 
-You'll need access to the Product Hunt API (currently beta) and a development token.
+* LaunchBar 6.1 (Tell LaunchBar to show pre-releases in the update settings.)
+* You'll need access to the Product Hunt API (currently beta) and a development token.
 
 ## Installation
 
 Clone or download `Product Hunt.lbaction`. Double-click on it. LaunchBar should now ask you if you want to install the action.
+
+Note: This action is not (yet) code signed. If you only allow actions from verified developers, you won't be able to install this action. To change this setting, open the LaunchBar index, click on “Actions”, then “Options” and uncheck the security option.
 
 ## Usage
 
