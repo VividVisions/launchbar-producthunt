@@ -108,7 +108,7 @@ var PH_API = {
 			throw new Error(Error.UNKNOWN, e);
 		}
 
-		if (typeof result.response == 'undefined' || typeof result.repsone.staus == 'undefined') {
+		if (typeof result.response == 'undefined' || typeof result.response.status == 'undefined') {
 			// Something went wrong. Most likely on the API side.
 			throw new Error(Error.API_ERROR, result.error, rsult.error_description);
 		} else if (result.response.status === 200) {
