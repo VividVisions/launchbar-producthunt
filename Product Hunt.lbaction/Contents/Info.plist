@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.vividvisions.LaunchBar.action.ProductHunt</string>
+	<key>CFBundleIconFile</key>
+	<string>logo.png</string>
+	<key>CFBundleName</key>
+	<string>Product Hunt</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
+	<key>LBMinimumLaunchBarVersion</key>
+	<integer>6100</integer>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBScriptName</key>
+			<string>Default.js</string>
+			<key>LBReturnsResult</key>
+			<true />
+		</dict>
+	</dict>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBSummary</key>
+		<string>This actions shows an overview of products submitted to ProductHunt.com on this day and the day before.</string>
+		<key>LBRequirements</key>
+		<string>A Product Hunt API developer token.</string>
+		<key>LBAuthor</key>
+		<string>Walter Krivanek</string>
+		<key>LBEmail</key>
+		<string>walter@vividvisions.com</string>
+		<key>LBWebsite</key>
+		<string>http://www.vividvisions.com/</string>
+		<key>LBTwitter</key>
+		<string>@vividvisions</string>
+	</dict>
+	<key>LBDebugLogEnabled</key>
+	<false />
+</dict>
+</plist>
