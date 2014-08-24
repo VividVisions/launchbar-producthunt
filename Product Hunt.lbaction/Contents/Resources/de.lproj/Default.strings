@@ -1,7 +1,7 @@
 "comments" = "Kommentare";
 "upvotes" = "Upvotes";
-"Submitted by" = "Hinzugefügt von";
-"Submitted" = "Hinzugefügt";
+"Posted by" = "Hinzugefügt von";
+"Created" = "Hinzugefügt";
 "Today" = "Heute";
 "Token successfully saved. Loading products…" = "Token erfolgreich gespeichert. Lade Produkte…";
 "Invalid token" = "Ungültiger Token";

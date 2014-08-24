@@ -149,13 +149,13 @@ function getProductDetails(item) {
 		},
 		{
 			title: post.user.name,
-			subtitle: 'Submitted by'.localize(),
+			subtitle: 'Posted by'.localize(),
 			icon: 'user.png',
 			url: post.user.profile_url
 		},
 		{
 			title: relativeDate.makeLocalized(post.created_at),
-			subtitle: 'Submitted'.localize(),
+			subtitle: 'Created'.localize(),
 			icon: 'time.png',
 			url: post.discussion_url
 		}
