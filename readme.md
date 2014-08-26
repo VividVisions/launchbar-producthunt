@@ -4,7 +4,7 @@ This LaunchBar action shows an overview of posts submitted to producthunt.com on
 
 ## Requirements
 
-* LaunchBar 6.1 (Tell LaunchBar to show pre-releases in the update settings.)
+* LaunchBar 6.1
 * You'll need access to the Product Hunt API (currently beta) and a development token.
 
 ## Installation
